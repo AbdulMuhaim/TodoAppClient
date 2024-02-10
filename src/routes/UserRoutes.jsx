@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router'
-import TodoList from '../pages/TodoList'
+import TodoList from '../components/TodoList'
 
 function UserRoutes() {
   return (
